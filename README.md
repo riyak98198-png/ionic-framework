@@ -63,6 +63,7 @@ Looking for the `ionic-angular` package? Ionic 3 has been moved to the [`ionic-v
 
 ### Getting Started
 
+
 Start a new project by following our [documentation](https://ionicframework.com/docs/).
 We would love to hear from you! If you have any feedback or run into issues using our framework, please file
 an [issue](https://github.com/ionic-team/ionic-framework/issues/new) on this repository.
@@ -100,3 +101,4 @@ The source code for earlier versions of the Ionic Framework may exist in other r
 
 * **Ionic 2/3**: Moved to [`ionic-team/ionic-v3`](https://github.com/ionic-team/ionic-v3)
 * **Ionic 1**: Moved to [`ionic-team/ionic-v1`](https://github.com/ionic-team/ionic-v1)
+* **Ionic 3**
